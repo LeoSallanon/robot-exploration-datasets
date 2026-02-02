@@ -1,6 +1,20 @@
 # robot-exploration-datasets
 Une base de datasets (LiDAR / images / rosbags / sonar / thermique / radiation…) collectés par des robots d’exploration** (UGV/UAV/AUV/ROV, handheld rigs, etc.).  
 
+## Aperçu du catalogue
+
+➡️ Ouvrir le tableau complet : **[data/core.csv](data/core.csv)**  
+(GitHub l’affiche automatiquement sous forme de tableau.) 
+
+<details>
+<summary>Voir un aperçu (20 premières entrées)</summary>
+
+| dataset_id | name | domain | platform | environment | modalities | license_spdx | commercial_use | url |
+|---|---|---|---|---|---|---|---|---|
+| … | … | … | … | … | … | … | … | … |
+
+</details>
+
 
 > Ce dépôt publie uniquement des **métadonnées** + liens. Les données brutes restent hébergées chez leurs auteurs/plateformes (Zenodo, PANGAEA, Dataverse, GitHub, etc.).
 
