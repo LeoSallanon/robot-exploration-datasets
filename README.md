@@ -2,7 +2,7 @@
 Une base de datasets (LiDAR / images / rosbags / sonar / thermique / radiation…) collectés par des robots d’exploration** (UGV/UAV/AUV/ROV, handheld rigs, etc.).  
 
 
-> ✅ Ce dépôt publie uniquement des **métadonnées** + liens. Les données brutes restent hébergées chez leurs auteurs/plateformes (Zenodo, PANGAEA, Dataverse, GitHub, etc.).
+> Ce dépôt publie uniquement des **métadonnées** + liens. Les données brutes restent hébergées chez leurs auteurs/plateformes (Zenodo, PANGAEA, Dataverse, GitHub, etc.).
 
 ## Fichier principal
 
