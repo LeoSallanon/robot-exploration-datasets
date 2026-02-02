@@ -19,4 +19,4 @@ Une base de datasets (LiDAR / images / rosbags / sonar / thermique / radiation�
 
 - **Le contenu de ce dépôt (CSV + docs)** est proposé sous **CC0-1.0** (métadonnées réutilisables librement).
 - **Les datasets externes** ont leurs propres licences (voir `license_spdx` + la page `url`).  
-  👉 En cas de conflit, **la licence source** fait foi.
+En cas de conflit, **la licence source** fait foi.
